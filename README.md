@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRJG_Official&screen_name=RJG_Official)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RJG_Official?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRJG_Official&screen_name=RJG_Official)
 
 ## I'm interested in all things MERN stack related
 
