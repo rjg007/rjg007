@@ -40,40 +40,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [🔴 DevOps.js Conference Stream by GitNation // Day 1](https://www.youtube.com/watch?v=SmCvCjDnXMM)
-- [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
-- [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
-- [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
-- [Top VS Code Updates | v1.54 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=Qj6Jya9APiU)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Rahul's GitHub Stats" src="https://github-readme-stats.rjg007.vercel.app/api?username=rjg007&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
