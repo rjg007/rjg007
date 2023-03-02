@@ -3,11 +3,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/RJG_Official?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRJG_Official&screen_name=RJG_Official)
 
 ## I'm interested in all things MERN stack related
-
-- 🔭 I'm currently working on a Point of Sale Billing application 
+ 
 - 🌱 I’m currently learning Backend Technologies (Node.js, Express)
 - 👯 I’m looking to collaborate with other individuals with similar skill sets 
-- 🥅 2021 Goals: Contribute to Open Source projects in whatever way I can
+- 🥅 2023 Goals: Contribute to Open Source projects in whatever way I can
 - ⚡ Fun fact: I am obsessed with FPL 
 
 ### Spotify Playing 🎧
